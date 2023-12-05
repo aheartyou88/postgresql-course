@@ -1,1 +1,1 @@
-SELECT pfirstname, plastname FROM people;
+SELECT pfirstname, plastname, pstate, pcity FROM people;
